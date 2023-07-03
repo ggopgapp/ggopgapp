@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 June 2023 - To: 02 July 2023
+
+Total Time: 11 mins
+
+JavaScript   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
