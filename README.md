@@ -18,3 +18,4 @@ JavaScript   11 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jirut01&layout=pie)](https://github.com/Jirut01/github-readme-stats)
