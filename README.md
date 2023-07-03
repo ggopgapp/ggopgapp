@@ -2,8 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 :mailbox: Reach me out!
+
 [![Linkedin Badge](https://img.shields.io/badge/-Ratchapat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratchapat-teowsuwan-019b67270/)
-#### Bizness <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/gg.gopgapp/)
 - :email: g.gapp71@gmail.com   
 
 <!--START_SECTION:waka-->
