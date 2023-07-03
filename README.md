@@ -4,8 +4,8 @@
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Ratchapat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratchapat-teowsuwan-019b67270/)
 #### Bizness
-- :email: g.gapp71@gmail.com
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+- :email: g.gapp71@gmail.com   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 <!--START_SECTION:waka-->
 ```txt
 From: 29 June 2023 - To: 02 July 2023
