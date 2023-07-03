@@ -1,10 +1,12 @@
-## Hi I'm Gap <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hi I'm Gap <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ratchapat-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratchapat-teowsuwan-019b67270/)
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 #### Bizness
-- :email: g.gapp71@gmail.com
+- :email: g.gapp71@gmail.com <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
