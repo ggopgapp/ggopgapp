@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 02 July 2023
+From: 29 June 2023 - To: 03 July 2023
 
-Total Time: 11 mins
+Total Time: 1 hr 30 mins
 
-JavaScript   11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+JavaScript   1 hr 30 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
